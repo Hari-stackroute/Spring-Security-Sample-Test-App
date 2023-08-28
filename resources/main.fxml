@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.controller.MainController">
+    <Label text="Welcome to the JavaFX Spring Security App!"/>
+    <Button text="Secure Button" onAction="#secureAction"/>
+</VBox>
